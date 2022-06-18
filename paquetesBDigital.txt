@@ -1,0 +1,33 @@
+BIBLIOTECA DIGITAL
+Para crear un nuevo proyecto en expo
+expo init <nombre del proyecto>
+
+elegir proyecto en blanco
+
+Para ejecutar el código del proyecto
+expo start -c
+yarn start
+
+Instación el Bottom Tab navegador con npm o con yarn
+npm install @react-navigation/bottom-tabs
+yarn add @ react-navigation/bottom-tabs
+
+Para instalar las dependencias de pares de bottom tab navigation.
+npm install react-native-screens
+npm install react-native-gesture-handler
+
+Para crear un contenedor de navegación 
+npm install @react-navigation/native
+
+Instalar expo-permissions para los permisos del escáner de código de barras.
+expo install expo-permissions
+
+Fuentes
+expo-google-fonts/rajdhani
+expo install @expo-google-fonts/rajdhani
+expo installexpo-font@~8.4.0
+
+Iconos
+npm install react-native vector-icons
+documentación: https://www.npmjs.com/package/react-native-ionicons
+
