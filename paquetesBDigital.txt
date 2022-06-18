@@ -31,3 +31,5 @@ Iconos
 npm install react-native vector-icons
 documentación: https://www.npmjs.com/package/react-native-ionicons
 
+INSTALACIÓN DE YARN
+npm install --global yarn
