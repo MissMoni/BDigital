@@ -5,7 +5,7 @@ expo init <nombre del proyecto>
 elegir proyecto en blanco
 
 Para ejecutar el código del proyecto
-expo start -c
+expo start -c   ó
 yarn start
 
 Instación el Bottom Tab navegador con npm o con yarn
