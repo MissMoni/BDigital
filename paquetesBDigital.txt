@@ -33,3 +33,11 @@ documentación: https://www.npmjs.com/package/react-native-ionicons
 
 INSTALACIÓN DE YARN
 npm install --global yarn
+
+Intalación de React Navigation
+npm install @react-navigation/native
+
+Instalación de dependencias
+expo install react-native-screens react-native-safe-area-context
+npm install react-native-screens react-native-safe-area-context
+
