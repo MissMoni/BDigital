@@ -4,6 +4,9 @@ expo init <nombre del proyecto>
 
 elegir proyecto en blanco
 
+Para ingresar al proyecto creado
+cd <nombre del proyecto
+
 Para ejecutar el código del proyecto
 expo start -c   ó
 yarn start
@@ -40,4 +43,5 @@ npm install @react-navigation/native
 Instalación de dependencias
 expo install react-native-screens react-native-safe-area-context
 npm install react-native-screens react-native-safe-area-context
+
 
