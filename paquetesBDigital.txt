@@ -25,6 +25,9 @@ npm install @react-navigation/native
 Instalar expo-permissions para los permisos del escáner de código de barras.
 expo install expo-permissions
 
+Intalar react native elements <header>
+npm i react-native-elements
+
 Fuentes
 expo-google-fonts/rajdhani
 expo install @expo-google-fonts/rajdhani
