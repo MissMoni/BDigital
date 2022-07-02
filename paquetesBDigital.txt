@@ -34,9 +34,6 @@ Iconos
 npm install react-native vector-icons
 documentación: https://www.npmjs.com/package/react-native-ionicons
 
-instalación del biblioteca complementaria de react navigation
-$ npm install --save react-native-gesture-handler react-native-reanimated
-
 
 INSTALACIÓN DE YARN
 npm install --global yarn
@@ -49,3 +46,21 @@ expo install react-native-screens react-native-safe-area-context
 npm install react-native-screens react-native-safe-area-context
 
 
+instalación del biblioteca complementaria de react navigation
+$ npm install --save react-native-gesture-handler react-native-reanimated
+
+
+
+INSTALACION DE PROGRAMAS PARA REACT NATIVE
+
+Instalar Visual Studio Code
+https://code.visualstudio.com/download
+
+Instalar Node
+https://nodejs.org/es/download/
+
+Intalar Expo cli
+npm install -g expo-cli exp
+
+Instalar Git
+https://git-scm.com/downloads
